@@ -9,11 +9,11 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-	<link rel="stylesheet" href="/resources/assets/css/main.css" />
-	<script src="/resources/assets/js/jquery.min.js"></script>
-	<script src="/resources/assets/js/skel.min.js"></script>
-	<script src="/resources/assets/js/util.js"></script>
-	<script src="/resources/assets/js/main.js"></script>
+<%-- 	<link rel="stylesheet" href="${pageContext.request.contextPath}/resources/assets/css/main.css" /> --%>
+<%-- 	<script src="${pageContext.request.contextPath}/resources/assets/js/jquery.min.js"></script> --%>
+<%-- 	<script src="${pageContext.request.contextPath}/resources/assets/js/skel.min.js"></script> --%>
+<%-- 	<script src="${pageContext.request.contextPath}/resources/assets/js/util.js"></script> --%>
+<%-- 	<script src="${pageContext.request.contextPath}/resources/assets/js/main.js"></script> --%>
 </head>
 <body>
 	<div id="wrapper">
