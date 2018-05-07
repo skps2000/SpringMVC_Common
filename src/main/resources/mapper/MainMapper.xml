@@ -6,7 +6,7 @@
   
 <mapper namespace="mainMapper">
 	<select id="selOne" resultType="java.util.HashMap">
-		select 1234
+		select * from comm.COMM_BBS
 	</select>
 
 </mapper>
